@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0359acde091b102c74d48f5e3cf74b9",
+    "revision": "1cd8aa98e612aef81cb5cceb89f9e284",
     "url": "/haoranzhang929/whoishao-ts-react/index.html"
   },
   {
-    "revision": "4db0355831ddcc11b8fd",
+    "revision": "bfa1f85062b120ffd4c4",
     "url": "/haoranzhang929/whoishao-ts-react/static/css/main.d21495c8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/haoranzhang929/whoishao-ts-react/static/js/2.827f55bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4db0355831ddcc11b8fd",
-    "url": "/haoranzhang929/whoishao-ts-react/static/js/main.3e54006f.chunk.js"
+    "revision": "bfa1f85062b120ffd4c4",
+    "url": "/haoranzhang929/whoishao-ts-react/static/js/main.1a739a9f.chunk.js"
   },
   {
     "revision": "53a0b738a659d998b5cb",
