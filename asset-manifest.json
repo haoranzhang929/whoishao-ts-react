@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/haoranzhang929/whoishao-ts-react/static/css/main.d21495c8.chunk.css",
-    "main.js": "/haoranzhang929/whoishao-ts-react/static/js/main.77dbc007.chunk.js",
-    "main.js.map": "/haoranzhang929/whoishao-ts-react/static/js/main.77dbc007.chunk.js.map",
-    "runtime-main.js": "/haoranzhang929/whoishao-ts-react/static/js/runtime-main.6706988e.js",
-    "runtime-main.js.map": "/haoranzhang929/whoishao-ts-react/static/js/runtime-main.6706988e.js.map",
-    "static/js/2.619cab47.chunk.js": "/haoranzhang929/whoishao-ts-react/static/js/2.619cab47.chunk.js",
-    "static/js/2.619cab47.chunk.js.map": "/haoranzhang929/whoishao-ts-react/static/js/2.619cab47.chunk.js.map",
-    "index.html": "/haoranzhang929/whoishao-ts-react/index.html",
-    "precache-manifest.713bb59bd7a9e2c519231bb03d7feba2.js": "/haoranzhang929/whoishao-ts-react/precache-manifest.713bb59bd7a9e2c519231bb03d7feba2.js",
-    "service-worker.js": "/haoranzhang929/whoishao-ts-react/service-worker.js",
-    "static/css/main.d21495c8.chunk.css.map": "/haoranzhang929/whoishao-ts-react/static/css/main.d21495c8.chunk.css.map",
-    "static/js/2.619cab47.chunk.js.LICENSE.txt": "/haoranzhang929/whoishao-ts-react/static/js/2.619cab47.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/haoranzhang929/whoishao-ts-react/static/media/logo.434a5dc5.svg"
+    "main.css": "/static/css/main.d21495c8.chunk.css",
+    "main.js": "/static/js/main.c2dced9f.chunk.js",
+    "main.js.map": "/static/js/main.c2dced9f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c0bcfbaa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c0bcfbaa.js.map",
+    "static/js/2.827f55bb.chunk.js": "/static/js/2.827f55bb.chunk.js",
+    "static/js/2.827f55bb.chunk.js.map": "/static/js/2.827f55bb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4a0f24c2d20b78b087af28cb769121ed.js": "/precache-manifest.4a0f24c2d20b78b087af28cb769121ed.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d21495c8.chunk.css.map": "/static/css/main.d21495c8.chunk.css.map",
+    "static/js/2.827f55bb.chunk.js.LICENSE.txt": "/static/js/2.827f55bb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.434a5dc5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6706988e.js",
-    "static/js/2.619cab47.chunk.js",
+    "static/js/runtime-main.c0bcfbaa.js",
+    "static/js/2.827f55bb.chunk.js",
     "static/css/main.d21495c8.chunk.css",
-    "static/js/main.77dbc007.chunk.js"
+    "static/js/main.c2dced9f.chunk.js"
   ]
 }
