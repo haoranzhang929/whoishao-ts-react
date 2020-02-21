@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62389f896da00ead77245e0bcc1bf321",
+    "revision": "337ea2211c0a8bd9a0a3db8b889c4568",
     "url": "/whoishao-ts-react/index.html"
   },
   {
-    "revision": "16bf2bb5a43df2f47ec4",
-    "url": "/whoishao-ts-react/static/css/main.d21495c8.chunk.css"
+    "revision": "6cfae634f4cb53405bcb",
+    "url": "/whoishao-ts-react/static/css/main.9a4e13e7.chunk.css"
   },
   {
-    "revision": "0221bbbe05acb47a2d16",
-    "url": "/whoishao-ts-react/static/js/2.827f55bb.chunk.js"
+    "revision": "dcbffb50d183c3688aab",
+    "url": "/whoishao-ts-react/static/js/2.4896a243.chunk.js"
   },
   {
     "revision": "07de372803ed01df2e8c300afca1a880",
-    "url": "/whoishao-ts-react/static/js/2.827f55bb.chunk.js.LICENSE.txt"
+    "url": "/whoishao-ts-react/static/js/2.4896a243.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16bf2bb5a43df2f47ec4",
-    "url": "/whoishao-ts-react/static/js/main.202f0d9b.chunk.js"
+    "revision": "6cfae634f4cb53405bcb",
+    "url": "/whoishao-ts-react/static/js/main.9f6fab82.chunk.js"
   },
   {
     "revision": "4e73fcf7dd963e2b1405",
