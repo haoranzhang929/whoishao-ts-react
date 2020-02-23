@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/whoishao-ts-react/precache-manifest.a3aaab89724bbb8d141e8c5791b51015.js"
+  "/whoishao-ts-react/precache-manifest.97f2bc498d485211819946a47d21f26c.js"
 );
 
 self.addEventListener('message', (event) => {
