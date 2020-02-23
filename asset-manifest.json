@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/whoishao-ts-react/static/css/main.6043e6c2.chunk.css",
-    "main.js": "/whoishao-ts-react/static/js/main.c8f04ed9.chunk.js",
-    "main.js.map": "/whoishao-ts-react/static/js/main.c8f04ed9.chunk.js.map",
+    "main.js": "/whoishao-ts-react/static/js/main.5ff65bc6.chunk.js",
+    "main.js.map": "/whoishao-ts-react/static/js/main.5ff65bc6.chunk.js.map",
     "runtime-main.js": "/whoishao-ts-react/static/js/runtime-main.7d0c1ea8.js",
     "runtime-main.js.map": "/whoishao-ts-react/static/js/runtime-main.7d0c1ea8.js.map",
-    "static/js/2.4ac31df7.chunk.js": "/whoishao-ts-react/static/js/2.4ac31df7.chunk.js",
-    "static/js/2.4ac31df7.chunk.js.map": "/whoishao-ts-react/static/js/2.4ac31df7.chunk.js.map",
+    "static/js/2.61487daa.chunk.js": "/whoishao-ts-react/static/js/2.61487daa.chunk.js",
+    "static/js/2.61487daa.chunk.js.map": "/whoishao-ts-react/static/js/2.61487daa.chunk.js.map",
     "index.html": "/whoishao-ts-react/index.html",
-    "precache-manifest.97cce313784cb41f69a414ea85b9f233.js": "/whoishao-ts-react/precache-manifest.97cce313784cb41f69a414ea85b9f233.js",
+    "precache-manifest.c6fb17a1cb3d9bd44054cfd6a38e96a3.js": "/whoishao-ts-react/precache-manifest.c6fb17a1cb3d9bd44054cfd6a38e96a3.js",
     "service-worker.js": "/whoishao-ts-react/service-worker.js",
     "static/css/main.6043e6c2.chunk.css.map": "/whoishao-ts-react/static/css/main.6043e6c2.chunk.css.map",
-    "static/js/2.4ac31df7.chunk.js.LICENSE.txt": "/whoishao-ts-react/static/js/2.4ac31df7.chunk.js.LICENSE.txt",
+    "static/js/2.61487daa.chunk.js.LICENSE.txt": "/whoishao-ts-react/static/js/2.61487daa.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/whoishao-ts-react/static/media/logo.434a5dc5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7d0c1ea8.js",
-    "static/js/2.4ac31df7.chunk.js",
+    "static/js/2.61487daa.chunk.js",
     "static/css/main.6043e6c2.chunk.css",
-    "static/js/main.c8f04ed9.chunk.js"
+    "static/js/main.5ff65bc6.chunk.js"
   ]
 }
