@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06a18dbb374937278d7e64db06423380",
+    "revision": "70a4d85f402bb30647718335e68828fd",
     "url": "/whoishao-ts-react/index.html"
   },
   {
-    "revision": "59f2957de09b2ab61838",
+    "revision": "84cd3283d815cd2e65ee",
     "url": "/whoishao-ts-react/static/css/main.6043e6c2.chunk.css"
   },
   {
-    "revision": "f6790cd13f3db83c7150",
-    "url": "/whoishao-ts-react/static/js/2.61487daa.chunk.js"
+    "revision": "c6d9a24e73c6ea22715a",
+    "url": "/whoishao-ts-react/static/js/2.78b6d86e.chunk.js"
   },
   {
     "revision": "07de372803ed01df2e8c300afca1a880",
-    "url": "/whoishao-ts-react/static/js/2.61487daa.chunk.js.LICENSE.txt"
+    "url": "/whoishao-ts-react/static/js/2.78b6d86e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59f2957de09b2ab61838",
-    "url": "/whoishao-ts-react/static/js/main.5ff65bc6.chunk.js"
+    "revision": "84cd3283d815cd2e65ee",
+    "url": "/whoishao-ts-react/static/js/main.ba808c68.chunk.js"
   },
   {
     "revision": "4e73fcf7dd963e2b1405",
